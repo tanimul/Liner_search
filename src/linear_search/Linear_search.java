@@ -11,6 +11,7 @@ public class Linear_search {
 
     public static void main(String[] args) {
         int numbers[] = {5, 2, 3, 4, 8, 10, 40, 50};
+        System.out.println("Enter a value!");
         int value = getInput.nextInt();
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] == value) {
