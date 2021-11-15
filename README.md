@@ -11,5 +11,10 @@ Linear Search is the simplest searching algorithm. It traverses the array sequen
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] == value) {
                 System.out.println(value + " is found at index: " + i);
+                break;
+            }
+            if (i == numbers.length - 1) {
+                System.out.println("Element not found!");
             }
         }
+
