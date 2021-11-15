@@ -1,2 +1,4 @@
 # Liner Search
-Add a Linear Search using JAVA language .
+Add a Linear search using JAVA language .
+
+# About Linear Search
