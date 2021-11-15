@@ -6,7 +6,7 @@ Linear Search is the simplest searching algorithm. It traverses the array sequen
 
 ![linear_search](https://user-images.githubusercontent.com/35636662/141829537-a0f46e10-5095-4099-b1ac-17fb68ec26c0.gif)
 
-#Java
+# Java
 
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] == value) {
